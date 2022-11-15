@@ -1,3 +1,6 @@
+//Takes two command line arguments: the pixel size of the base and the depth desired
+//Depths over 20 not recommended
+
 #include <SFML/Graphics.hpp>
 #include <iostream>
 #include <cmath>
